@@ -1,0 +1,46 @@
+.front-page-wrapper{
+    padding-top: 103px;
+    padding-left: 175px;
+}
+.front-page-logo{
+    width:32px;
+    height:32px;
+    margin-bottom: 16px;
+    background-color: salmon;
+    border-radius: 50%;
+}
+.arrow-icon-wrapper{
+    width: 74px;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 24px;
+  
+}
+.arrow-text{
+    width: 41px;
+    font-size: 14px;
+    margin-left: 11px;
+}
+.price-section{
+    margin-left: 25px;
+}
+.price-text{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 8px;
+}
+.product-price{
+    font-style: 32px;
+}
+.powder-image{
+    width: 320px;
+    height: 318px;
+    border-radius: 5px;
+}
+.product-sponsor{
+    display: flex;
+    justify-content: space-between
+}
+.vertical-line{
+    border-left: 1px solid gray;
+}
